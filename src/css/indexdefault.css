@@ -1,0 +1,27 @@
+#slider {
+    max-width:100% ;
+        position: relative;
+      
+    margin-top: 0px;
+    padding-top: 43%;
+    
+    background: url(/src/css/101.jpg) top center / cover no-repeat;
+    clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 85%, 85% 100%, 17% 100%, 0 87%, 0 0);
+    }
+    #slider .text-content{
+        position: absolute;
+      bottom: 47px;
+      width: 100%;
+      text-align: center;
+      color: rgb(58, 12, 12);
+    }
+    
+    #slider .text-heading{
+        font-size: 30px;
+        font-weight: 500;
+    }
+    
+    #slider .text-description{
+        margin-top: 25px;
+        font-size: 20px;
+    }

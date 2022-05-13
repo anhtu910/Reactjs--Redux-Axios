@@ -1,0 +1,33 @@
+#CreateUser {
+    overflow: scroll;
+   
+    margin: 0 auto;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: none;
+    width: 100%;
+
+    /* // opacity:0.8; */
+    background-color: rgba(0, 0, 0, 0.6);
+    align-items: center;
+    justify-content: center;
+}
+
+.Wap-form {
+    width: 65%;
+    opacity: 1;
+    /* // marginTop:100px; */
+    background-color: #fff;
+    align-items: center;
+    margin: 52px auto 1px;
+    transition: 0 auto;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
