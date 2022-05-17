@@ -1,6 +1,7 @@
 # link API for project
 https://github.com/anhtu910/API-for-React-Redux-Axios
-
+# account login (free api https://reqres.in/)
+eve.holt@reqres.in
 
 
 
